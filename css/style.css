@@ -95,4 +95,8 @@ label {
 }
 body {
   font-family: "Gilroy", "Arial", sans-serif;
+  font-size: 1.125rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #000000;
 }

@@ -5,4 +5,8 @@
 
 body {
   font-family: "Gilroy", "Arial", sans-serif;
+  font-size: toRem(18);
+  font-weight: 300;
+  line-height: 1.5;
+  color: $mainColor;
 }
