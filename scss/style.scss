@@ -18,3 +18,9 @@ body {
 .page {
   flex-grow: 1;
 }
+
+[class*="__container"] {
+  max-width: toRem(1940);
+  margin: 0 auto;
+  padding: 0 toRem(10);
+}
