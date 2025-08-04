@@ -1,6 +1,7 @@
 @use "_reset.scss";
-@use "_vars.scss";
-@use "_fonts.scss";
+@use "_vars.scss" as *;
+@use "_fonts.scss" as *;
+@use "_mixins.scss" as *;
 
 body {
   font-family: "Gilroy", "Arial", sans-serif;
