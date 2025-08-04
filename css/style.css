@@ -114,3 +114,9 @@ body {
       -ms-flex-positive: 1;
           flex-grow: 1;
 }
+
+[class*=__container] {
+  max-width: 121.25rem;
+  margin: 0 auto;
+  padding: 0 0.625rem;
+}
